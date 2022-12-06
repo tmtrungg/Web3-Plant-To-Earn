@@ -1,0 +1,32 @@
+header { 
+    height: fit-content;
+    width: 100%;
+    background: rgba(131, 253, 212, 0.92);
+    padding: 3px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-connect {
+    background: rgb(250, 121, 0);
+    color: aliceblue;
+}
+
+.btn-connect :hover{
+    background: rgb(255, 255, 255);
+}
+
+h6 {
+    color: rgb(12, 41, 41);
+    width: fit-content;
+    font-weight: 1;
+    font-size: 22px;
+}
+
+.whitepaper{
+    color: rgb(12, 41, 41);
+    width: fit-content;
+    font-weight: 1;
+    font-size: 22px;
+    padding-right: 10px;
+} 

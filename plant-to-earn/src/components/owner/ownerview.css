@@ -1,0 +1,23 @@
+.owner_view {
+    display: flex;
+    background: rgba(0,0,0,0.86);
+    flex-direction: column;
+    margin: auto;
+    margin-top: 4rem;
+    padding: 2rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    height: max-content;
+    border: 2px solid var(--color-primary-variant);
+    border-radius: 1.5rem;
+    width: 50%;
+    gap: 30px;
+    font-size: 1.9rem;
+}
+
+.owner_buttons {
+    display: flex;
+    justify-content: space-evenly;
+    width: auto;
+    padding: 0;
+}

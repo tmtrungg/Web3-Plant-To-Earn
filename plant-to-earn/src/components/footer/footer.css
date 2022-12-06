@@ -1,0 +1,19 @@
+    footer {
+        position: fixed;
+        background: rgb(106, 247, 177,0.85);
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        padding: 0.2rem 0;
+        text-align: center;
+        margin-top: 40vh;
+    }
+    
+
+    .footer_copyright {
+        font-size: 18px;
+        font-style: italic;
+        color: var(--color-bg);
+    }
+
+    

@@ -1,4 +1,4 @@
-# Web3-Plant-To-Earn
+# dApp-Plant-To-Earn
 
 ## Project Overview and Purpose
 “Plant to Earn” is a planting decentralized application that aims to encourage the environmental contribution in tree planting with the attractive tokenomic design which can help users gain back money in the progress of donation for tree planting. The project is 100% non-profit and not designed for the financial advantage of developers when all the money surplus will be programmed to directly transfer to verified planting firms for forestation and forest recovery activities.

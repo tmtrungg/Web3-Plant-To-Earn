@@ -24,5 +24,5 @@ https://drive.google.com/file/d/1JILfcu7RGyDBJAcqkOC8RvGsA0RV44o3/view?usp=shari
 ## Project running demo:
 https://youtu.be/ZyIAdMyGnxY
 
-## project's code description and tech stacks functional explanations:
+## Project's code description and tech stacks functional explanations:
 https://drive.google.com/file/d/1qcvK_DR7am7aZv7hQlilhoHTM-ytFxgL/view?usp=sharing
